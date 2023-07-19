@@ -8,7 +8,6 @@ Welcome to Codeswear, your one-stop shop for coding goodies! This website allows
 - Add items to your cart and proceed to checkout
 - Create an account and manage your personal information
 - Track your order status
-- Secure payments and transactions
 - User-friendly interface for an intuitive shopping experience
 
 ## Technologies Used
